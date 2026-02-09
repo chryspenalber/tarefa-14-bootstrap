@@ -1,7 +1,7 @@
 [Versão em Português](#portugues) | [English Version](#english)
 
 ---
-
+<a id="portugues"></a>
 ## Versão em Português
 
 # 💈 Estilo Livre — Barbearia Fictícia com Bootstrap  
@@ -107,7 +107,8 @@ Utilizando:
 
 ---
 
-## English Version
+<a id="english"></a>
+### English Version
 
 # 💈 Estilo Livre — Fictional Barbershop with Bootstrap  
 **Project developed by Chrys Penalber**
